@@ -2,10 +2,9 @@ h1 {
   color: green;
   text-align: center;
 }
-body {
-  background-color: lightblue;
+body.bground1{
+  background-image: url("../images/images.jpeg");
 }
-
 h1 {
   text-shadow: 3px 2px black;
 }
@@ -22,6 +21,8 @@ select {
   border-radius: 4px;
   background-color: #f1f1f1;
 }
-form{
-  align-items: center;
+form.form{
+  height: 200px;
+  width: 500px;
+  background-color: blue;
 }
