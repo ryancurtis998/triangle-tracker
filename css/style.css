@@ -24,6 +24,6 @@ select {
 form.form{
   height: 200px;
   width: 500px;
-  background-color: blue;
-  margin-left: 400px;        
+  background-color:lightblue;
+  margin-left: 400px;
 }
