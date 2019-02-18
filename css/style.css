@@ -3,7 +3,7 @@ h1 {
   text-align: center;
 }
 body {
-  background-color: lightblue;
+background-image: url("../images/images.jpeg");
 }
 
 h1 {
@@ -24,4 +24,10 @@ select {
 }
 form{
   align-items: center;
+}
+div.form{
+  height: 200px;
+  width: 300px;
+
+margin-left: 500px;
 }
